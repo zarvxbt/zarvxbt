@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey there 👋, I'm Zarv</h1>
 
 <p align="center">
@@ -8,8 +7,9 @@
 ---
 
 ### 🔹 About Me
-- 💼 Passionate about web3,nodes,devops,software, and all things open source.  
-
+- 💼 Passionate about web3, software, and all things open source.  
+- 🌏 Based in India  
+- 💬 Pronouns: he/him
 
 ---
 
