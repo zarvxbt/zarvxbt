@@ -1,82 +1,38 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Old Computer Text Animation</title>
-  <style>
-    body {
-      background: #000;
-      color: #0f0;
-      font-family: 'Courier New', Courier, monospace;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-      overflow: hidden;
-    }
-    .terminal {
-      position: relative;
-      padding: 20px;
-      border: 2px solid #0f0;
-      background: #000;
-      animation: glitch 0.5s infinite alternate;
-    }
-    .text {
-      font-size: 1.5em;
-      white-space: pre-wrap;
-      animation: type 4s steps(40, end) infinite;
-    }
-    .cursor {
-      animation: blink 0.7s step-end infinite;
-    }
-    @keyframes type {
-      0% { width: 0; }
-      100% { width: 100%; }
-    }
-    @keyframes blink {
-      50% { opacity: 0; }
-    }
-    @keyframes glitch {
-      0% { transform: translate(0); }
-      20% { transform: translate(-2px, 2px); }
-      40% { transform: translate(2px, -2px); }
-      60% { transform: translate(-2px, -2px); }
-      80% { transform: translate(2px, 2px); }
-      100% { transform: translate(0); }
-    }
-    /* Optional CRT effect */
-    .terminal::before {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: linear-gradient(to bottom, transparent, #0005);
-      pointer-events: none;
-    }
-  </style>
-</head>
-<body>
-  <div class="terminal">
-    <div class="text">Welcome to [YourUsername] GitHub<span class="cursor">_</span></div>
-  </div>
 
-  <script>
-    // Optional: Add random glitch text
-    function glitchText() {
-      const textElement = document.querySelector('.text');
-      setInterval(() => {
-        const originalText = 'Welcome to [YourUsername] GitHub';
-        let glitched = originalText.split('').map(char => {
-          return Math.random() > 0.9 ? String.fromCharCode(33 + Math.floor(Math.random() * 94)) : char;
-        }).join('');
-        textElement.textContent = glitched + '_';
-      }, 200);
-    }
-    glitchText();
-  </script>
-</body>
-</html>
+<h1 align="center">Hey there 👋, I'm Zarv</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=450&lines=Exploring+GitHub+🌱;Building+cool+things+💻;Always+learning+📚" alt="Typing SVG" />
+</p>
+
+---
+
+### 🔹 About Me
+- 💼 Passionate about web3,nodes,devops,software, and all things open source.  
+
+
+---
+
+### 🔗 Connect with Me
+<p align="left">
+  <a href="https://twitter.com/Zarv" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://t.me/ZarvXBT" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
+  <a href="https://zarvxbt.xyz" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000?style=flat&logo=githubpages&logoColor=white"/></a>
+</p>
+
+---
+
+### 📌 Pinned Projects
+<a href="https://github.com/zarvxbt/sui">
+  <img align="left" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=zarvxbt&repo=sui&theme=radical" />
+</a>
+<a href="https://github.com/zarvxbt/tt">
+  <img align="left" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=zarvxbt&repo=tt&theme=radical" />
+</a>
+<br><br><br><br>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zarvxbt&label=Profile+views&color=0e75b6&style=flat" alt="zarvxbt" />
+</p>
