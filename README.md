@@ -1,32 +1,38 @@
-## Hi there 👋 <h1 align="center">Welcome to zarv's GitHub 👋</h1>
+<h1 align="center">Hey there 👋, I'm Zarv</h1>
 
 <p align="center">
-  <a href="https://x.com/zarvxbt">
-    <img src="https://img.shields.io/badge/Follow-%40zarvxbt-black?style=for-the-badge&logo=github" />
-  </a>
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=zarvxbt&label=Profile%20views&color=brightgreen&style=flat" alt="zarvxbt" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=450&lines=Exploring+GitHub+🌱;Building+cool+things+💻;Always+learning+📚" alt="Typing SVG" />
 </p>
-
 
 ---
 
-### 📬 Connect With Me
+### 🔹 About Me
+- 💼 Passionate about web3, software, and all things open source.  
+- 🌏 Based in India  
+- 💬 Pronouns: he/him
 
-- Twitter: [@Zarv](https://twitter.com/zarvxbt)  
-- Telegram: [@Zarv](https://t.me/zarvxbt)
+---
 
-<!--
-**zarvxbt/zarvxbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔗 Connect with Me
+<p align="left">
+  <a href="https://twitter.com/Zarv" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://t.me/ZarvXBT" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
+  <a href="https://zarvxbt.xyz" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000?style=flat&logo=githubpages&logoColor=white"/></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Pinned Projects
+<a href="https://github.com/zarvxbt/sui">
+  <img align="left" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=zarvxbt&repo=sui&theme=radical" />
+</a>
+<a href="https://github.com/zarvxbt/tt">
+  <img align="left" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=zarvxbt&repo=tt&theme=radical" />
+</a>
+<br><br><br><br>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zarvxbt&label=Profile+views&color=0e75b6&style=flat" alt="zarvxbt" />
+</p>
