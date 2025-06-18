@@ -1,6 +1,6 @@
-<!-- Animated Typing Header -->
+<!-- Animated Typing Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey+there+🔥+I'm+Zarv;Welcome+to+ZarvXBT's+GitHub;Learning+%26+building+cool+stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%94%A5+I'm+Zarv;Welcome+to+ZarvXBT's+GitHub;Learning+%26+Building+Cool+Stuff" alt="Hey there! I'm Zarv" />
 </p>
 
 ---
