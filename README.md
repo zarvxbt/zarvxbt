@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hi there 👋 <h1 align="center">Welcome to zarvxbt's GitHub 👋</h1>
+
+<p align="center">
+  <a href="https://github.com/zarvxbt">
+    <img src="https://img.shields.io/badge/Follow-%40zarvxbt-black?style=for-the-badge&logo=github" />
+  </a>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=zarvxbt&label=Profile%20views&color=brightgreen&style=flat" alt="zarvxbt" />
+</p>
+
+
+---
+
+### 📬 Connect With Me
+
+- Twitter: [@Zarv](https://twitter.com/zarvxbt)  
+- Telegram: [@Zarv](https://t.me/zarvxbt)
 
 <!--
 **zarvxbt/zarvxbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
