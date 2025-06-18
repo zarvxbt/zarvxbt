@@ -1,6 +1,6 @@
-<!-- Typing Effect Header -->
+<!-- Animated Typing Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+ZarvXBT+Hub;Booting+up...;Exploring+Web3+%26+DevOps+World" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%94%A5+I'm+Zarv;Welcome+to+ZarvXBT's+GitHub;Learning+%26+Building+Cool+Stuff" alt="Exploring web3 and Devops worlds" />
 </p>
 
 ---
