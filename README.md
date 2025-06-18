@@ -1,7 +1,7 @@
-## Hi there 👋 <h1 align="center">Welcome to zarvxbt's GitHub 👋</h1>
+## Hi there 👋 <h1 align="center">Welcome to zarv's GitHub 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/zarvxbt">
+  <a href="https://x.com/zarvxbt">
     <img src="https://img.shields.io/badge/Follow-%40zarvxbt-black?style=for-the-badge&logo=github" />
   </a>
   <br />
