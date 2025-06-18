@@ -1,13 +1,13 @@
+<!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hey+there+🔥+I'm+Zarv;Welcome+to+my+GitHub+terminal!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey+there+🔥+I'm+Zarv;Welcome+to+ZarvXBT's+GitHub;Learning+%26+building+cool+stuff" alt="Typing SVG" />
 </p>
 
-<p align="center">🌱 Exploring GitHub | 🧠 Learning & building cool stuff</p>
 ---
 
 ### 👨‍💻 About Me
-- 🚀 Passionate about Web3,Devops,backend dev, and problem-solving  
-- 📚 Currently learning Devops Engeneering, Advanced Python, and advanced Node.js  
+- 🚀 Passionate about Web3, DevOps, backend dev, and problem-solving  
+- 📚 Currently learning DevOps Engineering, Advanced Python, and advanced Node.js  
 - 🧪 Love testing dApps and contributing to early projects  
 - ⚡ Always looking for new alpha and airdrops 👀
 
@@ -36,15 +36,15 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zarvxbt&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarv&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarvxbt&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/-@yourhandle-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zarvxbt)  
-[![Telegram](https://img.shields.io/badge/-@yourtguser-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/zarvxbt)  
+[![Twitter](https://img.shields.io/badge/-@zarvxbt-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zarvxbt)  
+[![Telegram](https://img.shields.io/badge/-@ZarvXBT-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/zarvxbt)  
 [![Website](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://zarvxbt.xyz)
 
 ---
