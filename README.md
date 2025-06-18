@@ -1,6 +1,8 @@
-<h1 align="center">Hey there 🔥 I'm Zarv</h1>
-<p align="center">🌱 Welcome to  ZarvXBT GitHub | 🧠 Learning & building cool stuff</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hey+there+🔥+I'm+Zarv;Welcome+to+my+GitHub+terminal!" alt="Typing SVG" />
+</p>
 
+<p align="center">🌱 Exploring GitHub | 🧠 Learning & building cool stuff</p>
 ---
 
 ### 👨‍💻 About Me
